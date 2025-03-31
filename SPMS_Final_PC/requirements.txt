@@ -1,0 +1,10 @@
+opencv-python
+pandas
+ultralytics
+easyocr
+firebase-admin
+numpy
+torch
+torchvision
+torchaudio
+protobuf
